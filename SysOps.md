@@ -1,5 +1,5 @@
 # SysOps ExamTopics Answer List
-"Right" answers list of **ExamTopics AWS SysOps Certification** based on my own research and discussion forum.
+"Right" answers list of **ExamTopics AWS SysOps Certification** based on my own research and discussion forums.
 
 *Help me to complete the full list of correct answers and to fix the ones that you believe are wrong =)* 
 
