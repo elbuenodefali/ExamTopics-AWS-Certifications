@@ -85,102 +85,48 @@
 | 74 b    | https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html                                                               |
 | 75 ace  | https://aws.amazon.com/blogs/security/aws-federated-authentication-with-active-directory-federation-services-ad-fs/                                                            |
 | 76 b    | (The first "B") https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudwatch-alarms-for-cloudtrail.html                                                               |
-| 77      |                                                                                                                                                                                |
-| 78      |                                                                                                                                                                                |
-| 79      |                                                                                                                                                                                |
-| 80      |                                                                                                                                                                                |
-| 81      |                                                                                                                                                                                |
-| 82      |                                                                                                                                                                                |
-| 83      |                                                                                                                                                                                |
-| 84      |                                                                                                                                                                                |
-| 85      |                                                                                                                                                                                |
-| 86      |                                                                                                                                                                                |
-| 87      |                                                                                                                                                                                |
-| 88      |                                                                                                                                                                                |
-| 89      |                                                                                                                                                                                |
-| 90      |                                                                                                                                                                                |
-| 91      |                                                                                                                                                                                |
-| 92      |                                                                                                                                                                                |
-| 93      |                                                                                                                                                                                |
-| 94      |                                                                                                                                                                                |
-| 95      |                                                                                                                                                                                |
-| 96      |                                                                                                                                                                                |
-| 97      |                                                                                                                                                                                |
-| 98      |                                                                                                                                                                                |
-| 99      |                                                                                                                                                                                |
-| 100     |                                                                                                                                                                                |
-| 101     |                                                                                                                                                                                |
-| 102     |                                                                                                                                                                                |
-| 103     |                                                                                                                                                                                |
-| 104     |                                                                                                                                                                                |
-| 105     |                                                                                                                                                                                |
-| 106     |                                                                                                                                                                                |
-| 107     |                                                                                                                                                                                |
-| 108     |                                                                                                                                                                                |
-| 109     |                                                                                                                                                                                |
-| 110     |                                                                                                                                                                                |
-| 111     |                                                                                                                                                                                |
-| 112     |                                                                                                                                                                                |
-| 113     |                                                                                                                                                                                |
-| 114     |                                                                                                                                                                                |
-| 115     |                                                                                                                                                                                |
-| 116     |                                                                                                                                                                                |
-| 117     |                                                                                                                                                                                |
-| 118     |                                                                                                                                                                                |
-| 119     |                                                                                                                                                                                |
-| 120     |                                                                                                                                                                                |
-| 121     |                                                                                                                                                                                |
-| 122     |                                                                                                                                                                                |
-| 123     |                                                                                                                                                                                |
-| 124     |                                                                                                                                                                                |
-| 125     |                                                                                                                                                                                |
-| 126     |                                                                                                                                                                                |
-| 127     |                                                                                                                                                                                |
-| 128     |                                                                                                                                                                                |
-| 129     |                                                                                                                                                                                |
-| 130     |                                                                                                                                                                                |
-| 131     |                                                                                                                                                                                |
-| 132     |                                                                                                                                                                                |
-| 133     |                                                                                                                                                                                |
-| 134     |                                                                                                                                                                                |
-| 135     |                                                                                                                                                                                |
-| 136     |                                                                                                                                                                                |
-| 137     |                                                                                                                                                                                |
-| 138     |                                                                                                                                                                                |
-| 139     |                                                                                                                                                                                |
-| 140     |                                                                                                                                                                                |
-| 141     |                                                                                                                                                                                |
-| 142     |                                                                                                                                                                                |
-| 143     |                                                                                                                                                                                |
-| 144     |                                                                                                                                                                                |
-| 145     |                                                                                                                                                                                |
-| 146     |                                                                                                                                                                                |
-| 147     |                                                                                                                                                                                |
-| 148     |                                                                                                                                                                                |
-| 149     |                                                                                                                                                                                |
-| 150     |                                                                                                                                                                                |
-| 151     |                                                                                                                                                                                |
-| 152     |                                                                                                                                                                                |
-| 153     |                                                                                                                                                                                |
-| 154     |                                                                                                                                                                                |
-| 155     |                                                                                                                                                                                |
-| 156     |                                                                                                                                                                                |
-| 157     |                                                                                                                                                                                |
-| 158     |                                                                                                                                                                                |
-| 159     |                                                                                                                                                                                |
-| 160     |                                                                                                                                                                                |
-| 161     |                                                                                                                                                                                |
-| 162     |                                                                                                                                                                                |
-| 163     |                                                                                                                                                                                |
-| 164     |                                                                                                                                                                                |
-| 165     |                                                                                                                                                                                |
-| 166     |                                                                                                                                                                                |
-| 167     |                                                                                                                                                                                |
-| 168     |                                                                                                                                                                                |
-| 169     |                                                                                                                                                                                |
-| 170     |                                                                                                                                                                                |
-| 171     |                                                                                                                                                                                |
-| 172     |                                                                                                                                                                                |
-| 173     |                                                                                                                                                                                |
-| 174     |                                                                                                                                                                                |
-| 175     |                                                                                                                                                                                |
+| 77 c    | https://docs.aws.amazon.com/en_us/kms/latest/developerguide/deleting-keys.html#deleting-keys-how-it-works                                                                      |
+| 78 a    | https://docs.aws.amazon.com/es_es/AmazonS3/latest/dev/example-bucket-policies.html#example-bucket-policies-use-case-3                                                                                                                                                                          
+| 79 c    | https://aws.amazon.com/es/blogs/big-data/building-and-maintaining-an-amazon-s3-metadata-index-without-servers/                                                                                                                                                                          
+| 80 ad   | https://docs.aws.amazon.com/awscloudtrail/latest/userguide/create-s3-bucket-policy-for-cloudtrail.html
+| 81-100  | There are no questions with these numbers.                                                                                                                                                               
+| 101 b   | https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys-delete-key-material.html                                                                                                                                                                          
+| 102 d   | https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html                                                                                                                                                                          
+| 103 a   | https://docs.aws.amazon.com/kms/latest/developerguide/deleting-keys.html#deleting-keys-how-it-works                                                                                                                                                                          
+| 104 a   | https://docs.aws.amazon.com/lambda/latest/dg/lambda-monitoring.html                                                                                                                                                                          
+| 105 b   | https://docs.aws.amazon.com/guardduty/latest/ug/guardduty-ug.pdf                                                                                                                                                                         
+| 106 c   | https://docs.amazonaws.cn/en_us/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.Authorizing.IAM.KMSCreatePolicy.html                                                                                                                                                                         
+| 107 ae? | https://aws.amazon.com/blogs/security/how-to-audit-your-aws-resources-for-security-compliance-by-using-custom-aws-config-rules/                                                                                                                                                                         
+| 108 b   | https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-paramstore-cli.html                                                                                                                                                                         
+| TOPIC 2 |                                                                                                                                                                          
+| 01 a    | N.A                                                                                                                                                                         
+| 02 d    | https://aws.amazon.com/blogs/aws/new-amazon-cognito-groups-and-fine-grained-role-based-access-control-2/                                                                                                                                                                          
+| 03 c    | https://aws.amazon.com/blogs/security/how-to-protect-the-integrity-of-your-encrypted-data-by-using-aws-key-management-service-and-encryptioncontext                                                                                                                                                                         
+| 04 c/d? | https://aws.amazon.com/blogs/compute/maintaining-transport-layer-security-all-the-way-to-your-container-part-2-using-aws-certificate-manager-private-certificate-authority/                                                                                                                                                                         
+| 05 b    | https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_externalid.html                                                                                                                                                                         
+| 06 b    | https://docs.aws.amazon.com/kms/latest/developerguide/rotate-keys.html                                                                                                                                                                         
+| 07 ace  | N.A                                                                                                                                                                         
+| 08 d    | https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html#flow-logs-basics                                                                                                                                                                         
+| 09 ce   | N.A
+| 10 ace  | https://docs.aws.amazon.com/config/latest/developerguide/monitor-config-with-cloudwatchevents.html
+| 11 b    | https://docs.aws.amazon.com/kms/latest/developerguide/services-s3.html
+| 12 ad   | N.A
+| 13 c    | 
+| 14 bc   | 
+| 15 b    | https://docs.aws.amazon.com/awscloudtrail/latest/userguide/encrypting-cloudtrail-log-files-with-aws-kms.html
+| 16 a    | https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instances.html
+| 17 c    | https://docs.amazonaws.cn/vpc/latest/userguide/endpoint-service.html                                                                                                                                                                       
+| 18 b    | https://docs.aws.amazon.com/kms/latest/developerguide/services-parameter-store.html                                                                                                                                                                       
+| 19 bc   | https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS%20Certified%20Security%20-%20Specialty_Sample%20Questions.pdf                                                                                                                                                                       
+| 20 d    | https://docs.aws.amazon.com/kms/latest/developerguide/key-policies.html#key-policy-default-allow-root-enable-iam                                                                                                                                                                       
+| 21 d    | https://docs.aws.amazon.com/AmazonS3/latest/dev/serv-side-encryption.html                                                                                                                                                                       
+| 22 de   | https://aws.amazon.com/premiumsupport/knowledge-center/custom-ssl-certificate-cloudfront/                                                                                                                                                                       
+| 23 d    | https://www.examtopics.com/discussions/amazon/view/4705-exam-aws-certified-security-specialty-topic-1-question-102/                                                                                                                                                                       
+| 24 c    | https://aws.amazon.com/blogs/security/how-to-protect-the-integrity-of-your-encrypted-data-by-using-aws-key-management-service-and-encryptioncontext/                                                                                                                                                                       
+| 25 bce  | N.A                                                                                                                                                                       
+| 26 c    | https://aws.amazon.com/blogs/compute/maintaining-transport-layer-security-all-the-way-to-your-container-part-2-using-aws-certificate-manager-private-certificate-authority/                                                                                                                                                                       
+| 27 b    | https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_iam-condition-keys.html                                                                                                                                                                       
+| 28 b    | https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingKMSEncryption.html                                                                                                                                                                       
+| 29 ace  | N.A                                                                                                                                                                       
+| 30 d    | https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html
+                                                                                                                                                                       
